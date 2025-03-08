@@ -1,0 +1,92 @@
+.stApp {
+    background-color: #dda0dd;
+  }
+  
+  h1 {
+    color: #401740 !important;
+    font-family: "Poppins" !important;
+    font-weight: bolder !important;
+  }
+  
+  .stSelectbox label {
+    color: #401740 !important;
+    font-size: 20px !important;
+    font-family: "Poppins" !important;
+  }
+  
+  .stSelectbox > div > div {
+    background-color: #401740 !important;
+    color: #dda0dd !important;
+    border: #401740;
+    font-family: "Poppins" !important;
+  }
+  
+  .stNumberInput label {
+    color: #401740 !important;
+    font-size: 20px !important;
+    font-family: "Poppins" !important;
+  }
+  
+  .stNumberInput input {
+    background-color: #401740 !important;
+    color: #dda0dd !important;
+    font-family: "Poppins" !important;
+  }
+  
+  .stButton > button,
+  .stButton > button * {
+    background-color: #401740 !important;
+    color: #dda0dd !important;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 20px;
+    font-family: "Poppins" !important;
+  }
+  
+  hr {
+    border-color: #401740 !important;
+  }
+  
+  p {
+    color: #401740 !important;
+    text-align: center !important;
+    font-size: 20px !important;
+    font-family: "Poppins" !important;
+  }
+  
+  [data-testid="stSidebar"] {
+    background-color: #401740 !important;
+  }
+  
+  [data-testid="stSidebar"] h1 {
+    color: #dda0dd !important;
+    font-size: 28px !important;
+    font-family: "Poppins" !important;
+    font-weight: bold !important;
+  }
+  
+  [data-testid="stSidebar"] hr {
+    border-color: #dda0dd !important;
+  }
+  
+  [data-testid="stSidebar"] p {
+    color: #dda0dd !important;
+    font-size: 20px !important;
+    font-family: "Poppins" !important;
+  }
+  
+  [data-testid="stSidebar"] .stMarkdown,
+  [data-testid="stSidebar"] .stText,
+  [data-testid="stSidebar"] p,
+  [data-testid="stSidebar"] div {
+    background-color: transparent !important;
+    color: #dda0dd !important;
+  }
+  
+  [data-testid="stSidebar"] button,
+  [data-testid="stSidebar"] button * {
+    background-color: #dda0dd !important;
+    color: #401740 !important;
+    font-family: "Poppins" !important;
+  }
+  
